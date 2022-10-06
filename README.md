@@ -28,7 +28,7 @@ then you can select anothe action to trigger.
 
 # Brief explanation
 
-I implement the composite design pattern here because I wanted to allow to the possibility to also support tree-like structure.
+I implemented the composite design pattern here because I wanted to allow to the possibility to also support tree-like structure.
 
 lets say that for instance I want to add an 'imported box of chocolates' but instead of passing in the price the total of the box itself you want to pass just the unit price.
 
